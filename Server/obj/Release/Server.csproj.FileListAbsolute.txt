@@ -1,0 +1,5 @@
+D:\pracownia\KCK\Server\Server\bin\Release\Server.exe.config
+D:\pracownia\KCK\Server\Server\bin\Release\Server.exe
+D:\pracownia\KCK\Server\Server\bin\Release\Server.pdb
+D:\pracownia\KCK\Server\Server\obj\Release\Server.exe
+D:\pracownia\KCK\Server\Server\obj\Release\Server.pdb

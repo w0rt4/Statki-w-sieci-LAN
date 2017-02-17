@@ -1,0 +1,9 @@
+D:\pracownia\KCK\Server\Server\bin\Debug\Server.exe.config
+D:\pracownia\KCK\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\pracownia\KCK\Server\Server\bin\Debug\Server.exe
+D:\pracownia\KCK\Server\Server\bin\Debug\Server.pdb
+D:\pracownia\KCK\Server\Server\obj\Debug\Server.exe
+D:\pracownia\KCK\Server\Server\obj\Debug\Server.pdb
+D:\pracownia\Statki-w-sieci-LAN\Server\bin\Debug\Server.exe.config
+D:\pracownia\Statki-w-sieci-LAN\Server\obj\Debug\Server.exe
+D:\pracownia\Statki-w-sieci-LAN\Server\obj\Debug\Server.pdb

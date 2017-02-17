@@ -1,0 +1,16 @@
+D:\pracownia\KCK\Server\ClientWpf1\bin\Debug\ClientWpf1.exe.config
+D:\pracownia\KCK\Server\ClientWpf1\obj\Debug\ClientWpf1.csprojResolveAssemblyReference.cache
+D:\pracownia\KCK\Server\ClientWpf1\obj\Debug\MainWindow.g.cs
+D:\pracownia\KCK\Server\ClientWpf1\obj\Debug\App.g.cs
+D:\pracownia\KCK\Server\ClientWpf1\obj\Debug\ClientWpf1_MarkupCompile.cache
+D:\pracownia\KCK\Server\ClientWpf1\obj\Debug\ClientWpf1_MarkupCompile.lref
+D:\pracownia\KCK\Server\ClientWpf1\bin\Debug\ClientWpf1.exe
+D:\pracownia\KCK\Server\ClientWpf1\bin\Debug\ClientWpf1.pdb
+D:\pracownia\KCK\Server\ClientWpf1\obj\Debug\MainWindow.baml
+D:\pracownia\KCK\Server\ClientWpf1\obj\Debug\ClientWpf1.g.resources
+D:\pracownia\KCK\Server\ClientWpf1\obj\Debug\ClientWpf1.Properties.Resources.resources
+D:\pracownia\KCK\Server\ClientWpf1\obj\Debug\ClientWpf1.csproj.GenerateResource.Cache
+D:\pracownia\KCK\Server\ClientWpf1\obj\Debug\ClientWpf1.exe
+D:\pracownia\KCK\Server\ClientWpf1\obj\Debug\ClientWpf1.pdb
+D:\pracownia\KCK\Server\ClientWpf1\bin\Debug\Server.exe
+D:\pracownia\KCK\Server\ClientWpf1\bin\Debug\Server.pdb

@@ -1,0 +1,10 @@
+D:\pracownia\KCK\Server\Client2\bin\Debug\Client2.exe.config
+D:\pracownia\KCK\Server\Client2\bin\Debug\Client2.exe
+D:\pracownia\KCK\Server\Client2\bin\Debug\Client2.pdb
+D:\pracownia\KCK\Server\Client2\obj\Debug\Client2.exe
+D:\pracownia\KCK\Server\Client2\obj\Debug\Client2.pdb
+D:\pracownia\KCK\Server\Client2\bin\Debug\Client.exe
+D:\pracownia\KCK\Server\Client2\bin\Debug\Server.exe
+D:\pracownia\KCK\Server\Client2\bin\Debug\Client.pdb
+D:\pracownia\KCK\Server\Client2\bin\Debug\Server.pdb
+D:\pracownia\KCK\Server\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache

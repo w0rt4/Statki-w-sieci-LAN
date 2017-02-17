@@ -1,0 +1,6 @@
+D:\pracownia\KCK\Server\Client\bin\Debug\Client.exe.config
+D:\pracownia\KCK\Server\Client\bin\Debug\Client.exe
+D:\pracownia\KCK\Server\Client\bin\Debug\Client.pdb
+D:\pracownia\KCK\Server\Client\obj\Debug\Client.exe
+D:\pracownia\KCK\Server\Client\obj\Debug\Client.pdb
+D:\pracownia\KCK\Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
